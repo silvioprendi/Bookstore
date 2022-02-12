@@ -1,0 +1,8 @@
+Order: Order_2022_02_12_19_19_30
+Date: 2022/02/12 19:19:30
+Client: Igli Draci
+Books Ordered: 
+1pcs   Romeo and Juliet     Unit: 39.99  Total: 39.99
+
+-----------
+Total: 39.99

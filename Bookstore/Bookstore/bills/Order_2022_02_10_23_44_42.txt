@@ -1,0 +1,8 @@
+Order: Order_2022_02_10_23_44_42
+Date: 2022/02/10 23:44:42
+Client: Kejsi Bushi
+Books Ordered: 
+18pcs  The Freedom of the Will Unit: 25.99  Total: 467.82
+
+-----------
+Total: 467.82

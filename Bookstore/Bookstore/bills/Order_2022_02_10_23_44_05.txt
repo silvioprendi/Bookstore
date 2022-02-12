@@ -1,0 +1,8 @@
+Order: Order_2022_02_10_23_44_05
+Date: 2022/02/10 23:44:05
+Client: Klea Xhina
+Books Ordered: 
+1pcs   The Freedom of the Will Unit: 25.99  Total: 25.99
+
+-----------
+Total: 25.99

@@ -1,0 +1,8 @@
+Order: Order_2022_02_11_09_55_05
+Date: 2022/02/11 09:55:05
+Client: Igli Draci
+Books Ordered: 
+12pcs  The Problem of The Pain Unit: 59.90  Total: 718.80
+
+-----------
+Total: 718.80

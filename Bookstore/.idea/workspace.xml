@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82798225-b86f-4c0e-886e-0a599851af4d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/.serverless/cloudformation-template-create-stack.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/.serverless/cloudformation-template-update-stack.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/.serverless/serverless-state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/.serverless/taleascrudtask.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/api/models/course.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/api/models/student.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/api/routes/courses.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/api/routes/students.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/handler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/serverless.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/components/courses/AddCourse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/components/courses/Course.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/components/courses/EditCourse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/components/images/UploadImageToS3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/components/layout/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/components/pages/About.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/components/pages/Contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/components/pages/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/components/pages/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/components/users/AddUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/components/users/EditUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/components/users/User.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="24n4RJSXPKu8kOJZGxulcDkQZWi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bookstore" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82798225-b86f-4c0e-886e-0a599851af4d" name="Changes" comment="" />
+      <created>1644253007589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644253007589</updated>
+      <workItem from="1644253008794" duration="86000" />
+      <workItem from="1644256270311" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

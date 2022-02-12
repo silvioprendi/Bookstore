@@ -1,0 +1,8 @@
+Order: Order_2022_02_12_20_40_37
+Date: 2022/02/12 20:40:37
+Client: Igli Draci
+Books Ordered: 
+1pcs   The Freedom of the Will Unit: 25.99  Total: 25.99
+
+-----------
+Total: 25.99

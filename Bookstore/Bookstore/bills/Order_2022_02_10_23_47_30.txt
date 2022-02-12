@@ -1,0 +1,10 @@
+Order: Order_2022_02_10_23_47_30
+Date: 2022/02/10 23:47:30
+Client: Alissa Cenga
+Books Ordered: 
+7pcs   Joy to the World     Unit: 10.99  Total: 76.93
+7pcs   Surprised By Joy     Unit: 49.99  Total: 349.93
+3pcs   The Freedom of the Will Unit: 25.99  Total: 77.97
+
+-----------
+Total: 504.83

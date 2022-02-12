@@ -1,0 +1,10 @@
+Order: Order_2022_02_10_23_37_16
+Date: 2022/02/10 23:37:16
+Client: Ari Dikolli
+Books Ordered: 
+5pcs   The Problem of The Pain Unit: 59.90  Total: 299.50
+8pcs   The Hunchback of Notre-Dame Unit: 39.99  Total: 319.92
+7pcs   Hamlet               Unit: 19.99  Total: 139.93
+
+-----------
+Total: 759.35

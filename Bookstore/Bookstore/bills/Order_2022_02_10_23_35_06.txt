@@ -1,0 +1,11 @@
+Order: Order_2022_02_10_23_35_06
+Date: 2022/02/10 23:35:06
+Client: Indrit Breti
+Books Ordered: 
+5pcs   The Problem of The Pain Unit: 59.90  Total: 299.50
+23pcs  The Hunchback of Notre-Dame Unit: 39.99  Total: 919.77
+19pcs  Hamlet               Unit: 19.99  Total: 379.81
+7pcs   Joy to the World     Unit: 10.99  Total: 76.93
+
+-----------
+Total: 1676.01

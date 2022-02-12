@@ -1,0 +1,9 @@
+Order: Order_2022_02_10_23_39_25
+Date: 2022/02/10 23:39:25
+Client: Rei Kurti
+Books Ordered: 
+8pcs   Surprised By Joy     Unit: 49.99  Total: 399.92
+7pcs   Joy to the World     Unit: 10.99  Total: 76.93
+
+-----------
+Total: 476.85

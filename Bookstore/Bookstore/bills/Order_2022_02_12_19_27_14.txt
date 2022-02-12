@@ -1,0 +1,9 @@
+Order: Order_2022_02_12_19_27_14
+Date: 2022/02/12 19:27:14
+Client: Igli Draci
+Books Ordered: 
+5pcs   The Hunchback of Notre-Dame Unit: 39.99  Total: 199.95
+3pcs   Hamlet               Unit: 19.99  Total: 59.97
+
+-----------
+Total: 259.92

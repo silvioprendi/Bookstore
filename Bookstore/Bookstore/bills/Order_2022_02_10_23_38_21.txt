@@ -1,0 +1,10 @@
+Order: Order_2022_02_10_23_38_21
+Date: 2022/02/10 23:38:21
+Client: Igli Draci
+Books Ordered: 
+8pcs   Surprised By Joy     Unit: 49.99  Total: 399.92
+12pcs  The Problem of The Pain Unit: 59.90  Total: 718.80
+7pcs   Joy to the World     Unit: 10.99  Total: 76.93
+
+-----------
+Total: 1195.65
